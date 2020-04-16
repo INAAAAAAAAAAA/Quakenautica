@@ -8,7 +8,7 @@ Hello guys! We are the Quakenautica team!
 
 ## What is Quakenautica?
 
-Quakenautica is a Subnautica themed Quake mod for the nintendo 3ds port of Quake (CtrQuake) and for windows.
+Quakenautica is a Subnautica themed Quake mod for the Nintendo 3ds port of Quake (CtrQuake) and for windows.
 Our idea is **not** to create another Subnautica which is based on the quake engine. We want to tell our own story in the world of Subnautica. We hope you'll enjoy that story.
 
 ## Installation
